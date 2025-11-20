@@ -148,7 +148,7 @@ Nous apprécions tous les retours pour améliorer l'application !
 
 ## 🔒 Politique de Confidentialité
 
-Nous prenons votre vie privée au sérieux. Consultez notre [Politique de Confidentialité](https://drive.google.com/file/d/.../view) pour en savoir plus sur la collecte et l'utilisation de vos données.
+Nous prenons votre vie privée au sérieux. Consultez notre [Politique de Confidentialité](https://drive.google.com/file/d/1M-6Ka9LV65LGRxZzpPfsw071QWTeaLj7/view?usp=drivesdk) pour en savoir plus sur la collecte et l'utilisation de vos données.
 
 **Points clés :**
 - ✅ **Données locales uniquement** - Vos données restent sur votre appareil
