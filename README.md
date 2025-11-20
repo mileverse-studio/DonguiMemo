@@ -43,6 +43,9 @@ Développée avec ❤️ par **MileVerse Studio**
 ### 📦 GitHub Releases
 [![GitHub Releases](https://img.shields.io/github/v/release/mileverse-studio/DonguiMemo?color=blue&label=Version%20stable)](https://github.com/mileverse-studio/DonguiMemo/releases)
 
+### 📱 APKpure
+[![APKpure](https://img.shields.io/badge/APKpure-Télécharger-orange?style=for-the-badge&logo=android)](https://apkpure.com/donguimemo)
+
 ### 📹 Démonstrations YouTube
 [![Chaîne YouTube](https://img.shields.io/badge/YouTube-S'abonner-red?style=for-the-badge&logo=youtube)](https://youtube.com/@donguimemo?si=vchZ-Z384-EE3bIV)
 
@@ -50,7 +53,12 @@ Développée avec ❤️ par **MileVerse Studio**
 
 ## 🛠️ Installation
 
-### 📦 Installation APK (GitHub Releases)
+### Option 1 : APKpure (Recommandé)
+1. Téléchargez DonguiMemo sur [APKpure](https://apkpure.com/donguimemo)
+2. Installez directement depuis APKpure
+3. Mises à jour automatiques disponibles
+
+### Option 2 : GitHub Releases
 1. Téléchargez le dernier APK depuis [GitHub Releases](https://github.com/mileverse-studio/DonguiMemo/releases)
 2. Activez "Sources inconnues" dans vos paramètres Android
 3. Installez l'APK téléchargé
@@ -148,7 +156,7 @@ Nous apprécions tous les retours pour améliorer l'application !
 
 ## 🔒 Politique de Confidentialité
 
-Nous prenons votre vie privée au sérieux. Consultez notre [Politique de Confidentialité](https://drive.google.com/file/d/1M-6Ka9LV65LGRxZzpPfsw071QWTeaLj7/view?usp=drivesdk) pour en savoir plus sur la collecte et l'utilisation de vos données.
+Nous prenons votre vie privée au sérieux. Consultez notre [Politique de Confidentialité](https://drive.google.com/file/d/.../view) pour en savoir plus sur la collecte et l'utilisation de vos données.
 
 **Points clés :**
 - ✅ **Données locales uniquement** - Vos données restent sur votre appareil
@@ -202,9 +210,9 @@ DonguiMemo est développé et propriété de MileVerse Studio. Tous droits rése
 - 🚀 Releases: Mises à jour régulières
 
 ### Performance Application
-- 📱 Téléchargements APK
+- 📱 Téléchargements APKpure + GitHub
 - ⭐ Feedback utilisateurs
-- 🔄 Mises à jour GitHub
+- 🔄 Mises à jour automatiques
 - 💬 Retours communautaires
 
 ---
@@ -235,7 +243,8 @@ Restez informé des dernières nouvelles DonguiMemo :
 
 ## 🎯 DonguiMemo - Votre Parcours de Développement Personnel Commence Ici !
 
-[![Télécharger](https://img.shields.io/badge/Download-APK-red?style=for-the-badge&logo=android)](https://github.com/mileverse-studio/DonguiMemo/releases)
+[![APKpure](https://img.shields.io/badge/Download-APKpure-orange?style=for-the-badge&logo=android)](https://apkpure.com/donguimemo)
+[![GitHub](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/mileverse-studio/DonguiMemo/releases)
 [![YouTube](https://img.shields.io/badge/Watch-Demos-red?style=for-the-badge&logo=youtube)](https://youtube.com/@donguimemo?si=vchZ-Z384-EE3bIV)
 
 ---
