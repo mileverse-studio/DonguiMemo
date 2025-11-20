@@ -44,7 +44,7 @@ Développée avec ❤️ par **MileVerse Studio**
 [![GitHub Releases](https://img.shields.io/github/v/release/mileverse-studio/DonguiMemo?color=blue&label=Version%20stable)](https://github.com/mileverse-studio/DonguiMemo/releases)
 
 ### 📱 APKpure
-[![APKpure](https://img.shields.io/badge/https://apkpure.com/p/com.mileverse.donguimemo)
+[![APKpure](https://img.shields.io/badge/APKpure-Télécharger-orange?style=for-the-badge&logo=android)](https://apkpure.com/donguimemo)
 
 ### 📹 Démonstrations YouTube
 [![Chaîne YouTube](https://img.shields.io/badge/YouTube-S'abonner-red?style=for-the-badge&logo=youtube)](https://youtube.com/@donguimemo?si=vchZ-Z384-EE3bIV)
