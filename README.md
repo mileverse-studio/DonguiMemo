@@ -257,22 +257,6 @@ Votre retour nous aide à améliorer DonguiMemo :
 - Suggestions personnalisées d'organisation
 - Questions-réponses sur l'application
 
-### 📱 Améliorations Techniques
-- Synchronisation cloud optionnelle
-- Mode hors-ligne renforcé  
-- API publique pour développeurs tiers
-- Version iOS en préparation
-
----
-
-## 📈 Métriques & Impact
-
-### Résultats Attendus BETA 2
-- **📊 Taux de rétention** : +40% grâce au tutoriel enrichi
-- **🚀 Adoption fonctionnalités** : +60% avec exemples concrets
-- **😊 Satisfaction utilisateur** : +35% avec interface améliorée
-- **🐛 Réduction bugs** : -80% avec corrections majeures
-
 ---
 
 ## 📋 Changelog Détaillé
@@ -286,17 +270,10 @@ Votre retour nous aide à améliorer DonguiMemo :
 
 ### Versions Précédentes
 - **v1.0.0-beta1** : Version initiale avec fonctionnalités de base
-- **v0.9.0** : Alpha publique avec tests utilisateurs
 
 ---
 
 ## 🏆 Reconnaissances
-
-### Technologies Utilisées
-- **📱 Android Studio** - Environnement de développement
-- **🎨 Material Design 3** - Système de design
-- **💾 Room Database** - Base de données locale
-- **🔄 GitHub Actions** - Pipeline CI/CD
 
 ### Remerciements
 - **👥 Équipe MileVerse Studio** - Design et développement
