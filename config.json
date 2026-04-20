@@ -1,0 +1,64 @@
+{
+  "app": {
+    "name": "DonguiMemo",
+    "package_name": "com.donguimemo.app",
+    "version": "1.0.0",
+    "build_number": 1,
+    "description": "Application de productivité personnelle avec gestion de notes, rappels, cartes mémoire, habitudes et chat IA.",
+    "author": "Mileverse Studio",
+    "email": "mileverse61@gmail.com",
+    "repository": "https://github.com/mileverse-studio/DonguiMemo",
+    "license": "Proprietary"
+  },
+  "features": {
+    "notes": true,
+    "notebooks": true,
+    "reminders": true,
+    "habits": true,
+    "flashcards": true,
+    "ai_chat": false,
+    "ads": {
+      "enabled": true,
+      "provider": "unity_ads",
+      "banner": true,
+      "rewarded": true
+    },
+    "data_export_import": true,
+    "local_notifications": true,
+    "rich_text_editor": true,
+    "audio_notes": true,
+    "image_notes": true
+  },
+  "i18n": {
+    "default_locale": "fr",
+    "supported_locales": ["fr", "en"]
+  },
+  "theme": {
+    "default": "system",
+    "supported": ["light", "dark", "system"],
+    "primary_color": "#1A237E",
+    "accent_color": "#FF9800"
+  },
+  "storage": {
+    "primary": "hive",
+    "preferences": "shared_preferences",
+    "notes_encrypted": false
+  },
+  "monetization": {
+    "unity_ads_game_id_android": "",
+    "unity_ads_game_id_ios": "",
+    "test_mode": true
+  },
+  "urls": {
+    "privacy_policy": "",
+    "terms_of_service": "",
+    "support_email": "mileverse61@gmail.com",
+    "website": ""
+  },
+  "build": {
+    "minSdkVersion": 21,
+    "targetSdkVersion": 35,
+    "compileSdkVersion": 35,
+    "web_renderer": "canvaskit"
+  }
+}

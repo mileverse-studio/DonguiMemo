@@ -1,0 +1,47 @@
+{
+  "name": "donguimemo",
+  "displayName": "DonguiMemo",
+  "version": "1.0.0",
+  "buildNumber": "1",
+  "description": "Application Flutter de productivité personnelle (notes, rappels, habitudes, cartes mémoire).",
+  "slug": "donguimemo",
+  "platforms": ["android", "web"],
+  "android": {
+    "package": "com.donguimemo.app",
+    "versionCode": 1,
+    "permissions": [
+      "INTERNET",
+      "ACCESS_NETWORK_STATE",
+      "VIBRATE",
+      "RECEIVE_BOOT_COMPLETED",
+      "SCHEDULE_EXACT_ALARM",
+      "POST_NOTIFICATIONS",
+      "READ_EXTERNAL_STORAGE",
+      "WRITE_EXTERNAL_STORAGE",
+      "CAMERA",
+      "RECORD_AUDIO"
+    ],
+    "adaptiveIcon": {
+      "foregroundImage": "assets/icon/icon.png",
+      "backgroundColor": "#FFFFFF"
+    }
+  },
+  "web": {
+    "favicon": "web/favicon.png",
+    "bundler": "flutter"
+  },
+  "icon": "assets/icon/icon.png",
+  "splash": {
+    "image": "assets/icon/icon.png",
+    "backgroundColor": "#FFFFFF"
+  },
+  "locales": {
+    "default": "fr",
+    "supported": ["fr", "en"]
+  },
+  "owner": "mileverse-studio",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mileverse-studio/DonguiMemo"
+  }
+}
